@@ -64,21 +64,19 @@
 ![INSTRUMENTS_LEFT](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/IMG_4623.JPG?raw=true)
 ![INSTRUMENTS_STACK](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/IMG_4625.JPG?raw=true)
 ![INSTRUMENTS 1](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/IMG_7140.JPG?raw=true)
-![INSTRUMENTS 2)(https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/IMG_7140.JPG?raw=true)
+![INSTRUMENTS 2)](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/IMG_7140.JPG?raw=true)
 
 ** Video detailed walkabout
 
 These youtube videos are just me walking about up close with my camera while the plane was disassembled for its 2022 Annual. You can see even inside the fuse/wings etc. briefly to give you an idea.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h7LCGDUYQKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/h7LCGDUYQKE
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3lP5YBVBkos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/3lP5YBVBkos
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CXUzI5mdrys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/CXUzI5mdrys
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UAzy7573QE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+https://www.youtube.com/embed/3UAzy7573QE
 
 This link is just for my convience of ending this page. 
 
