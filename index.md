@@ -1,6 +1,9 @@
 
 # Aviat Pitts S-1T Serial # 1024, Year of Manufacture 1984 Registration C-GZRO
 
+- Price: T.B.D
+- Location: CYND - Gatineau/Quebec/Canada 
+
 ![C-GZRO](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/120192589_342653510515315_1866686497951489580_n.jpg?raw=true)
 
 - Total Time on airframe since manufacture 
@@ -65,10 +68,14 @@
 
 ** Video detailed walkabout
 
-![CLOSE LOOK](https://youtu.be/h7LCGDUYQKE)
-![CLOSE LOOK](https://youtu.be/3lP5YBVBkos)
-![CLOSE LOOK](https://youtu.be/CXUzI5mdrys)
-![CLOSE LOOK](https://youtu.be/3UAzy7573QE)
+These youtube videos are just me walking about up close with my camera while the plane was disassembled for its 2022 Annual. You can see even inside the fuse/wings etc. briefly to give you an idea.
 
+- https://youtu.be/h7LCGDUYQKE
+- https://youtu.be/3lP5YBVBkos
+- https://youtu.be/CXUzI5mdrys
+-(https://youtu.be/3UAzy7573QE
+
+
+This link is just for my convience of ending this page. 
 
 FOR EDITING https://github.com/peterashwoodsmith/cgzro/edit/gh-pages/index.md
