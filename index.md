@@ -1,6 +1,6 @@
 # Aviat Pitts S-1T Serial # 1024, Year of Manufacture 1984 Registration C-GZRO
 
-
+![C-GZRO](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/120192589_342653510515315_1866686497951489580_n.jpg?raw=true)
 
 - Total Time on airframe since manufacture:  1258 (as of March17-2022 and will increase by about 5 hours a month)
 - Time since Ceconite+Dope Rebuild        : ~600 (wings/fuse/tail feathers were rebuilt/recovered progressively over a 4 year period).                        
