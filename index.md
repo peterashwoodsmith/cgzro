@@ -1,3 +1,4 @@
+
 # Aviat Pitts S-1T Serial # 1024, Year of Manufacture 1984 Registration C-GZRO
 
 ![C-GZRO](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/120192589_342653510515315_1866686497951489580_n.jpg?raw=true)
@@ -37,9 +38,8 @@
 - - bungees 2021
 - - tires Good Year Flight Custom III's and inner tubes 2022
 - - brakes/disks/hoses 2022
-- - tail wheel bushings/chaings 2022 
-
-
+- - tail wheel bushings/chains 2022 
+- 
 ** Pretty Pictures
 
 ![WITH F18](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/247750_big.jpg?raw=true)
@@ -53,9 +53,22 @@
 ![FLIGHT_FORM_CLOSE1](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/IMG_6197.JPG?raw=true)
 ![FLIGHT_FORM_CLOSE2](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/IMG_6198.JPG?raw=true)
 ![W SILVER SPIT VW](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/IMG_6219.JPG?raw=true)
+![IN FLIGHT](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/IMG_7120.JPG?raw=true)
+![IN FLIGHT](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/IMG_7020.JPG?raw=true)
 
 ** Cockpit
 
 ![INSTRUMENTS_LEFT](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/IMG_4623.JPG?raw=true)
 ![INSTRUMENTS_STACK](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/IMG_4625.JPG?raw=true)
 ![INSTRUMENTS 1](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/IMG_7140.JPG?raw=true)
+![INSTRUMENTS 2)(https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/IMG_7140.JPG?raw=true)
+
+** Video detailed walkabout
+
+![CLOSE LOOK](https://youtu.be/h7LCGDUYQKE)
+![CLOSE LOOK](https://youtu.be/3lP5YBVBkos)
+![CLOSE LOOK](https://youtu.be/CXUzI5mdrys)
+![CLOSE LOOK](https://youtu.be/3UAzy7573QE)
+
+
+FOR EDITING https://github.com/peterashwoodsmith/cgzro/edit/gh-pages/index.md
