@@ -70,13 +70,10 @@
 
 These youtube videos are just me walking about up close with my camera while the plane was disassembled for its 2022 Annual. You can see even inside the fuse/wings etc. briefly to give you an idea.
 
-https://www.youtube.com/embed/h7LCGDUYQKE
-
-https://www.youtube.com/embed/3lP5YBVBkos
-
-https://www.youtube.com/embed/CXUzI5mdrys
-
-https://www.youtube.com/embed/3UAzy7573QE
+<a href="https://www.youtube.com/embed/h7LCGDUYQKE"> CLOSE UP VIDEO 1</a>
+<a href="https://www.youtube.com/embed/3lP5YBVBkos"> CLOSE UP VIDEO 2</a>
+<a href="https://www.youtube.com/embed/CXUzI5mdrys"> CLOSE UP VIDEO 3</a>
+<a href="https://www.youtube.com/embed/3UAzy7573QE"> CLOSE UP VIDEO 4</a?
 
 This link is just for my convience of ending this page. 
 
