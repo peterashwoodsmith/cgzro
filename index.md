@@ -12,6 +12,20 @@
 - Engine Instruments:                     :  XXXX YYYYY
 
 
+![INSTRUMENTS 1](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/IMG_7140.JPG?raw=true)
+![WITH F18](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/247750_big.jpg?raw=true)
+![SMOKE APPROACHING](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/8715369833_bdb9186f0d_o.jpg?raw=true)
+![TAXI HEAD ON](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/8715385031_27015be4b2_o.jpg?raw=true)
+![3PT LANDING](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/IMG_2381.JPG?raw=true)
+![INSTRUMENTS_LEFT](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/IMG_4623.JPG?raw=true)
+![INSTRUMENTS_STACK](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/IMG_4625.JPG?raw=true)
+![ABOVE_IN_VWOC](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/IMG_4973.JPG?raw=true)
+![FLIGHT_TURN_TOP](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/IMG_5089.JPG?raw=true)
+![FLIGHT KE SMOKE](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/IMG_5138.JPG?raw=true)
+![FLIGHT_FORM_CITY1](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/IMG_6193.JPG?raw=true)
+![FLIGHT_FORM_CLOSE1](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/IMG_6197.JPG?raw=true)
+![FLIGHT_FORM_CLOSE2](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/IMG_6198.JPG?raw=true)
+![W SILVER SPIT VW](https://github.com/peterashwoodsmith/cgzro/blob/gh-pages/IMG_6219.JPG?raw=true)
 
 
 
