@@ -1,4 +1,21 @@
-## Welcome to GitHub Pages
+# Aviat Pitts S-1T Serial # 1024, Year of Manufacture 1984 Registration C-GZRO
+
+
+
+- Total Time on airframe since manufacture:  1258 (as of March17-2022 and will increase by about 5 hours a month)
+- Time since Ceconite+Dope Rebuild        : ~600 (wings/fuse/tail feathers were rebuilt/recovered progressively over a 4 year period).                        
+- Total Time on engine since overhaul     :  188 (Penn Yann - including new case and roller lifters/cam
+- Total Time on propellor since overhaul  :  62  ( B - hub - no recurring AD's)
+- Accident History                        :  None     
+- Airworthiness                           :  Certified under T.C A8S0, STC'd Smoke System.
+- Radio Equipement                        :  Garmin/Apollo Sl-40 Comm, Garmin XXXX Xponder (no Mode-C)
+- Engine Instruments:                     :  XXXX YYYYY
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/peterashwoodsmith/cgzro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
