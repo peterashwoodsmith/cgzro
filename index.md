@@ -37,6 +37,7 @@
 - - Fabric 10/10 - no issues
 - - Paint 9/10 - some small cracks that need to be touched up each year (Dope makes this easy)
 - - some small chipping around some screws on the metal parts but 9/10
+- - Registration "C-GZRO" is vinyl so easy to substitue without painting.
 - Landing Gear
 - - bungees 2021
 - - tires Good Year Flight Custom III's and inner tubes 2022
@@ -78,7 +79,10 @@ These youtube videos are just me walking about up close with my camera while the
 
 <a href="https://www.youtube.com/embed/3UAzy7573QE"> CLOSE UP VIDEO 4</a>
 
+** Video of first flight 2022 - not fancy but you can see all instruments etc.
+Note new brake pads hence all the braking and turning to try to get them broken in a bit before T/O.
 
+<a href="https://youtu.be/JVp-EDxd5CA"> First 2022 flight video 5</a>
 
 This link is just for my convience of ending this page. 
 
